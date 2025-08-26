@@ -2,7 +2,7 @@
 
 ## Fase 1 — Inducción + Esqueleto del proyecto
 
-**Practicante:** Maximiliano Jesús Vergara Vega  
+**Practicante:** Maximiliano Jesús Vergara Vega.  
 **Carrera:** Técnico en Programación y Análisis de Sistemas (AIEP)
 
 ### Objetivo principal
